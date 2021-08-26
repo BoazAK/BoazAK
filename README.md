@@ -1,4 +1,4 @@
-# Hi, I’m @BoazAK
+# Hi, I’m BoazAK
 
 - 👋
 - 👀 I’m interested in #CyberSecuity, #Django and #Python
