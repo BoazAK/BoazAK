@@ -2,7 +2,7 @@
 
 - 👋
 - 👀 I’m interested in #CyberSecuity, #Django and #Python
-- 🌱 I’m currently learning #Pentesting and Web apps development with #Django.
+- 🌱 I’m currently Application Security Engineer and Penetration Tester. Sometimes, I do Web apps development with #Django.
 - 💞️ I’m looking to collaborate on #Python projects, #Scripts...
 - 📫 Reach me on #Gmail : kodjoboaz@gmail.com
 
