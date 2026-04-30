@@ -1,9 +1,9 @@
 # Hi, I’m BoazAK
 
 - 👋
-- 👀 I’m interested in #CyberSecuity, #Django and #Python
-- 🌱 I’m currently Application Security Engineer and Penetration Tester. Sometimes, I do Web apps development with #Django.
-- 💞️ I’m looking to collaborate on #Python projects, #Scripts...
+- 👀 I’m interested in #CyberSecuity, #Django, #FastAPI and #Python
+- 🌱 I’m currently Application Security Engineer and Penetration Tester. Sometimes, I do Web apps and APIs development with #Django, #DRF or #FastAPI.
+- 💞️ I’m looking to collaborate on #Python projects, #Scripts... Or I can be your Penetration Tester or your Application Security specialist.
 - 📫 Reach me on #Gmail : kodjoboaz@gmail.com
 
 <!---
